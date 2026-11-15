@@ -6,7 +6,7 @@
 
 Built for **PromptWars × Catalyst: Elderly Care & Medication Management Platform** (Google for Developers × Hack2skill).
 
-**Live demo:** _add your deployed URL here_. Click **"Try the live demo"** to open a seeded circle as the elder, the caretaker or the family member. No sign-up is needed, and you can switch viewpoint at any time.
+**Live demo:** https://kendra-care.onrender.com . Click **"Try the live demo"** to open a seeded circle as the elder, the caretaker or the family member. No sign-up is needed, and you can switch viewpoint at any time.
 
 ![Kendra landing page](docs/screenshots/01-landing.png)
 
